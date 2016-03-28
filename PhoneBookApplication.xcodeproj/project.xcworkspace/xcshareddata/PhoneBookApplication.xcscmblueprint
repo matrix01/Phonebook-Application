@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D97E25A6B3F4DDA1AE9B3AC5A1B893922AB0810B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D41DB304BAACE4FBE57B8BE954B0C2BBBADCBC40" : 0,
+    "D97E25A6B3F4DDA1AE9B3AC5A1B893922AB0810B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "348A4DA2-4C42-4A64-83FE-4EE10F616BC8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D41DB304BAACE4FBE57B8BE954B0C2BBBADCBC40" : "p0013_ios_training_201508",
+    "D97E25A6B3F4DDA1AE9B3AC5A1B893922AB0810B" : "MyTraining\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PhoneBookApplication",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PhoneBookApplication\/PhoneBookApplication.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/milan.mia@review.bjitgroup.com:29418\/p0013_ios_training_201508",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41DB304BAACE4FBE57B8BE954B0C2BBBADCBC40"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/matrix01\/MyTraining.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D97E25A6B3F4DDA1AE9B3AC5A1B893922AB0810B"
+    }
+  ]
+}

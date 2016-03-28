@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>348A4DA2-4C42-4A64-83FE-4EE10F616BC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PhoneBookApplication</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D41DB304BAACE4FBE57B8BE954B0C2BBBADCBC40</key>
+		<string>ssh://milan.mia@review.bjitgroup.com:29418/p0013_ios_training_201508</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PhoneBookApplication/PhoneBookApplication.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D41DB304BAACE4FBE57B8BE954B0C2BBBADCBC40</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://milan.mia@review.bjitgroup.com:29418/p0013_ios_training_201508</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D41DB304BAACE4FBE57B8BE954B0C2BBBADCBC40</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D41DB304BAACE4FBE57B8BE954B0C2BBBADCBC40</string>
+			<key>IDESourceControlWCCName</key>
+			<string>p0013_ios_training_201508</string>
+		</dict>
+	</array>
+</dict>
+</plist>
